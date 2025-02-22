@@ -24,5 +24,3 @@ Framework: Angular
 Front-end:
 
 Tecnologia: HTML/CSS/JavaScript
-
-Biblioteca/Framework: React ou Angular (opcional)
